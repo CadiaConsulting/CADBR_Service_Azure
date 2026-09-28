@@ -1,0 +1,39 @@
+{
+  "id": "29b1e65b-c34c-4799-ad03-ec426daa3f44",
+  "name": "CADBR_Service_Azure",
+  "publisher": "CADIA CONSULTING DO BRASIL LTDA",  
+  "version": "1.0.0.0",
+  "brief": "Desenvolvimento temporario para direcionamento novo Azure",
+  "description": "Desenvolvimento temporario para direcionamento novo Azure",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+ "dependencies": [
+    {
+      "id": "dd663d2b-e8aa-44c4-ba1f-96f3bf189af6",
+      "publisher": "CADIA CONSULTING DO BRASIL LTDA",
+      "name": "Brazil Localization for Dynamics 365 Business Central",
+      "version": "24.0.0.14"
+    }
+  ],
+  "screenshots": [],
+  "platform": "20.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+       "from": 90000,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
